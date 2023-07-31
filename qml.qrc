@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>volvo_half.png</file>
+        <file>Speedo_Gauge_BG.png</file>
+        <file>Speedo_Gauge_Needle.png</file>
+        <file>Speedo_Gauge_Center_Circle.png</file>
+        <file>Speedo_Gauge_Divisions.png</file>
+        <file>Speedo_Gauge_Numbers.png</file>
+        <file>Speedo_Gauge_Outer_Circle1.png</file>
+        <file>Speedo_Gauge_Outer_Circle2.png</file>
+        <file>logo.png</file>
+        <file>back2.jpg</file>
+        <file>compass2.png</file>
+        <file>redcircle.png</file>
+        <file>PixelExpert_Logo_trim.png</file>
+        <file>firefly2.png</file>
+    </qresource>
+</RCC>
